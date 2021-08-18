@@ -1,4 +1,4 @@
-# random_db
+# Movies App for Yellow Class
 
 A new Flutter project.
 
