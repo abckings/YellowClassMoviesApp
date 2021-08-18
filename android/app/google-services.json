@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978601618004",
+    "project_id": "yellowclass-75992",
+    "storage_bucket": "yellowclass-75992.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978601618004:android:eca73a3ba8c5dc46631bc1",
+        "android_client_info": {
+          "package_name": "com.example.random_db"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978601618004-4d0ch5d7p1va5uavgnp6uv855u0m8ldb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx7YRZlee-mww-zq95ZhVMXj2XOvqPjOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978601618004-4d0ch5d7p1va5uavgnp6uv855u0m8ldb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
